@@ -71,8 +71,6 @@
       ],
       "name": "baseboard_bath_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -85,7 +83,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -103,8 +103,6 @@
       ],
       "name": "baseboard_bed_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -117,7 +115,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -135,8 +135,6 @@
       ],
       "name": "baseboard_hall_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -149,7 +147,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -167,8 +167,6 @@
       ],
       "name": "baseboard_kitchen_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -181,7 +179,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -199,8 +199,6 @@
       ],
       "name": "baseboard_living_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -213,7 +211,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -231,8 +231,6 @@
       ],
       "name": "curtain_bar_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -245,7 +243,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -263,8 +263,6 @@
       ],
       "name": "door_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -277,7 +275,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -327,8 +327,6 @@
       ],
       "name": "ground_bath_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -341,7 +339,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -359,8 +359,6 @@
       ],
       "name": "ground_bed_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -373,7 +371,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -391,8 +391,6 @@
       ],
       "name": "ground_garden_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -405,7 +403,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -423,8 +423,6 @@
       ],
       "name": "ground_hall_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -437,7 +435,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -455,8 +455,6 @@
       ],
       "name": "ground_kitchen_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -469,7 +467,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -487,8 +487,6 @@
       ],
       "name": "ground_living_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -501,7 +499,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -519,8 +519,6 @@
       ],
       "name": "ground_shower_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -533,7 +531,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -551,8 +551,6 @@
       ],
       "name": "ground_terrace_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -565,7 +563,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -583,8 +583,6 @@
       ],
       "name": "interior_door_frame_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -597,7 +595,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -615,8 +615,6 @@
       ],
       "name": "interior_door_handle_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -629,7 +627,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -647,8 +647,6 @@
       ],
       "name": "interior_door_panel_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -661,7 +659,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -679,8 +679,6 @@
       ],
       "name": "windows_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -693,7 +691,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -711,8 +711,6 @@
       ],
       "name": "interior_door_panel_02",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -725,7 +723,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -743,8 +743,6 @@
       ],
       "name": "masonry_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -757,7 +755,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -775,8 +775,6 @@
       ],
       "name": "curtain_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -789,7 +787,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -807,8 +807,6 @@
       ],
       "name": "curtain_02",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -821,7 +819,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -839,8 +839,6 @@
       ],
       "name": "curtain_03",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -853,7 +851,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -930,8 +930,6 @@
       ],
       "name": "bathfurniture_chenevert_angie_mirror",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -944,7 +942,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -962,8 +962,6 @@
       ],
       "name": "bathfurniture_chenevert_angie_panels",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -976,7 +974,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1013,8 +1013,6 @@
       ],
       "name": "bathfurniture_chenevert_angie_top",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1027,7 +1025,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1063,8 +1063,6 @@
       ],
       "name": "curtain_04",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1077,7 +1075,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1095,8 +1095,6 @@
       ],
       "name": "curtain_05",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1109,7 +1107,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     }
   ],
