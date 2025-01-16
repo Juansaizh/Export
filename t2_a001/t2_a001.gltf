@@ -47,8 +47,7 @@
         25,
         26,
         27,
-        28,
-        29
+        28
       ],
       "name": "t2_a001",
       "extras": {
@@ -68,10 +67,8 @@
         0.0,
         0.7071067
       ],
-      "name": "baseboard_bath_01",
+      "name": "baseboard_shower_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -85,7 +82,9 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "tags": "\"bath_01\""
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
+        "tags": "\"shower_01\""
       }
     },
     {
@@ -103,8 +102,6 @@
       ],
       "name": "baseboard_bed_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -118,6 +115,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"bed_01\""
       }
     },
@@ -136,8 +135,6 @@
       ],
       "name": "baseboard_hall_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -151,6 +148,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"hall_01\""
       }
     },
@@ -169,8 +168,6 @@
       ],
       "name": "baseboard_kitchen_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -184,6 +181,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"kitchen_01\""
       }
     },
@@ -202,8 +201,6 @@
       ],
       "name": "baseboard_living_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -217,6 +214,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"living_01\""
       }
     },
@@ -235,8 +234,6 @@
       ],
       "name": "curtain_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -250,6 +247,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"living_01\""
       }
     },
@@ -268,8 +267,6 @@
       ],
       "name": "curtain_02",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -283,6 +280,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"bed_01\""
       }
     },
@@ -301,8 +300,6 @@
       ],
       "name": "curtain_03",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -316,6 +313,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"living_01\""
       }
     },
@@ -334,8 +333,6 @@
       ],
       "name": "curtain_bar_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -348,7 +345,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -366,8 +365,6 @@
       ],
       "name": "door_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -380,7 +377,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -398,8 +397,6 @@
       ],
       "name": "fence_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -412,7 +409,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -428,10 +427,8 @@
         0.0,
         0.7071067
       ],
-      "name": "ground_bath_01",
+      "name": "ground_shower_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -445,7 +442,9 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "tags": "\"bath_01\""
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
+        "tags": "\"shower_01\""
       }
     },
     {
@@ -463,8 +462,6 @@
       ],
       "name": "ground_bed_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -478,6 +475,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"bed_01\""
       }
     },
@@ -496,8 +495,6 @@
       ],
       "name": "ground_garden_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -510,7 +507,9 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -528,8 +527,6 @@
       ],
       "name": "ground_hall_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -543,6 +540,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"hall_01\""
       }
     },
@@ -561,8 +560,6 @@
       ],
       "name": "ground_kitchen_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -576,6 +573,8 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"kitchen_01\""
       }
     },
@@ -594,8 +593,6 @@
       ],
       "name": "ground_living_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -609,44 +606,13 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"living_01\""
       }
     },
     {
       "mesh": 17,
-      "translation": [
-        -3.37674522,
-        4.91393075E-05,
-        2.86312318
-      ],
-      "rotation": [
-        0.7071068,
-        0.0,
-        0.0,
-        0.7071067
-      ],
-      "name": "ground_shower_01",
-      "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
-        "paramrenderwidth": 2048,
-        "paramrenderheight": 2048,
-        "paramfacecolor": [
-          0.7058824,
-          0.20784314,
-          0.09019608
-        ],
-        "paramedgecolor": [
-          1.0,
-          0.7764706,
-          0.0
-        ],
-        "paramedgewidth": 1,
-        "tags": "\"shower_01\""
-      }
-    },
-    {
-      "mesh": 18,
       "translation": [
         2.20746517,
         4.9467224E-05,
@@ -660,8 +626,6 @@
       ],
       "name": "ground_terrace_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -675,11 +639,13 @@
           0.0
         ],
         "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"terrace_01\""
       }
     },
     {
-      "mesh": 19,
+      "mesh": 18,
       "translation": [
         -3.77711463,
         1.05946779,
@@ -693,8 +659,6 @@
       ],
       "name": "interior_door_frame_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -707,11 +671,13 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
-      "mesh": 20,
+      "mesh": 19,
       "translation": [
         -2.9467988,
         1.02641892,
@@ -725,8 +691,6 @@
       ],
       "name": "interior_door_handle_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -739,11 +703,13 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
-      "mesh": 21,
+      "mesh": 20,
       "translation": [
         -2.94800162,
         1.01973879,
@@ -757,8 +723,6 @@
       ],
       "name": "interior_door_panel_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 2.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -771,11 +735,13 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 2.0
       }
     },
     {
-      "mesh": 22,
+      "mesh": 21,
       "translation": [
         0.0,
         1.14999986,
@@ -808,7 +774,7 @@
       }
     },
     {
-      "mesh": 23,
+      "mesh": 22,
       "translation": [
         0.0,
         1.14999986,
@@ -827,7 +793,7 @@
       }
     },
     {
-      "mesh": 24,
+      "mesh": 23,
       "translation": [
         -0.534056842,
         1.21111965,
@@ -841,8 +807,6 @@
       ],
       "name": "windows_01",
       "extras": {
-        "generateUVs": true,
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -855,11 +819,13 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "generateUVs": true,
+        "scaleInLightmap": 1.0
       }
     },
     {
-      "mesh": 25,
+      "mesh": 24,
       "translation": [
         0.0,
         1.14999986,
@@ -877,7 +843,7 @@
       }
     },
     {
-      "mesh": 26,
+      "mesh": 25,
       "translation": [
         0.0,
         1.14999986,
@@ -895,7 +861,7 @@
       }
     },
     {
-      "mesh": 27,
+      "mesh": 26,
       "translation": [
         0.0,
         1.14999986,
@@ -913,7 +879,7 @@
       }
     },
     {
-      "mesh": 28,
+      "mesh": 27,
       "translation": [
         0.0,
         1.14999986,
@@ -945,7 +911,7 @@
           "material": 0
         }
       ],
-      "name": "baseboard_bath_01"
+      "name": "baseboard_shower_01"
     },
     {
       "primitives": [
@@ -1140,7 +1106,7 @@
           "material": 14
         }
       ],
-      "name": "ground_bath_01"
+      "name": "ground_shower_01"
     },
     {
       "primitives": [
@@ -1230,7 +1196,7 @@
           "material": 20
         }
       ],
-      "name": "ground_shower_01"
+      "name": "ground_terrace_01"
     },
     {
       "primitives": [
@@ -1245,7 +1211,7 @@
           "material": 21
         }
       ],
-      "name": "ground_terrace_01"
+      "name": "interior_door_frame_01"
     },
     {
       "primitives": [
@@ -1260,7 +1226,7 @@
           "material": 22
         }
       ],
-      "name": "interior_door_frame_01"
+      "name": "interior_door_handle_01"
     },
     {
       "primitives": [
@@ -1275,7 +1241,7 @@
           "material": 23
         }
       ],
-      "name": "interior_door_handle_01"
+      "name": "interior_door_panel_01"
     },
     {
       "primitives": [
@@ -1288,12 +1254,7 @@
           },
           "indices": 120,
           "material": 24
-        }
-      ],
-      "name": "interior_door_panel_01"
-    },
-    {
-      "primitives": [
+        },
         {
           "attributes": {
             "POSITION": 126,
@@ -1333,16 +1294,6 @@
           },
           "indices": 140,
           "material": 28
-        },
-        {
-          "attributes": {
-            "POSITION": 146,
-            "NORMAL": 147,
-            "TEXCOORD_0": 148,
-            "TEXCOORD_1": 149
-          },
-          "indices": 145,
-          "material": 29
         }
       ],
       "name": "masonry_01"
@@ -1351,15 +1302,30 @@
       "primitives": [
         {
           "attributes": {
-            "POSITION": 151,
-            "NORMAL": 152,
-            "TEXCOORD_0": 153
+            "POSITION": 146,
+            "NORMAL": 147,
+            "TEXCOORD_0": 148
           },
-          "indices": 150,
-          "material": 30
+          "indices": 145,
+          "material": 29
         }
       ],
       "name": "section_face_01"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 150,
+            "NORMAL": 151,
+            "TEXCOORD_0": 152,
+            "TEXCOORD_1": 153
+          },
+          "indices": 149,
+          "material": 30
+        }
+      ],
+      "name": "windows_01"
     },
     {
       "primitives": [
@@ -1374,7 +1340,7 @@
           "material": 31
         }
       ],
-      "name": "windows_01"
+      "name": "wallpaint_01"
     },
     {
       "primitives": [
@@ -1389,7 +1355,7 @@
           "material": 32
         }
       ],
-      "name": "wallpaint_01"
+      "name": "wallpaint_02"
     },
     {
       "primitives": [
@@ -1404,7 +1370,7 @@
           "material": 33
         }
       ],
-      "name": "wallpaint_02"
+      "name": "walltiles_decor_01"
     },
     {
       "primitives": [
@@ -1417,21 +1383,6 @@
           },
           "indices": 169,
           "material": 34
-        }
-      ],
-      "name": "walltiles_decor_01"
-    },
-    {
-      "primitives": [
-        {
-          "attributes": {
-            "POSITION": 175,
-            "NORMAL": 176,
-            "TEXCOORD_0": 177,
-            "TEXCOORD_1": 178
-          },
-          "indices": 174,
-          "material": 35
         }
       ],
       "name": "walltiles_simple_01"
@@ -2139,7 +2090,7 @@
       "bufferView": 0,
       "byteOffset": 67920,
       "componentType": 5123,
-      "count": 18,
+      "count": 24,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
@@ -2147,7 +2098,7 @@
       "bufferView": 1,
       "byteOffset": 236736,
       "componentType": 5126,
-      "count": 8,
+      "count": 12,
       "max": [
         1.170896,
         1.1090982,
@@ -2163,9 +2114,9 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 236832,
+      "byteOffset": 236880,
       "componentType": 5126,
-      "count": 8,
+      "count": 12,
       "type": "VEC3",
       "name": "accessorNormals"
     },
@@ -2173,21 +2124,21 @@
       "bufferView": 2,
       "byteOffset": 157824,
       "componentType": 5126,
-      "count": 8,
+      "count": 12,
       "type": "VEC2",
       "name": "accessorUVs"
     },
     {
       "bufferView": 2,
-      "byteOffset": 157888,
+      "byteOffset": 157920,
       "componentType": 5126,
-      "count": 8,
+      "count": 12,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
     {
       "bufferView": 0,
-      "byteOffset": 67956,
+      "byteOffset": 67968,
       "componentType": 5123,
       "count": 6,
       "type": "SCALAR",
@@ -2195,7 +2146,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 236928,
+      "byteOffset": 237024,
       "componentType": 5126,
       "count": 4,
       "max": [
@@ -2213,7 +2164,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 236976,
+      "byteOffset": 237072,
       "componentType": 5126,
       "count": 4,
       "type": "VEC3",
@@ -2221,7 +2172,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 157952,
+      "byteOffset": 158016,
       "componentType": 5126,
       "count": 4,
       "type": "VEC2",
@@ -2229,7 +2180,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 157984,
+      "byteOffset": 158048,
       "componentType": 5126,
       "count": 4,
       "type": "VEC2",
@@ -2237,7 +2188,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 67968,
+      "byteOffset": 67980,
       "componentType": 5123,
       "count": 18,
       "type": "SCALAR",
@@ -2245,7 +2196,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237024,
+      "byteOffset": 237120,
       "componentType": 5126,
       "count": 8,
       "max": [
@@ -2263,7 +2214,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237120,
+      "byteOffset": 237216,
       "componentType": 5126,
       "count": 8,
       "type": "VEC3",
@@ -2271,7 +2222,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158016,
+      "byteOffset": 158080,
       "componentType": 5126,
       "count": 8,
       "type": "VEC2",
@@ -2279,7 +2230,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158080,
+      "byteOffset": 158144,
       "componentType": 5126,
       "count": 8,
       "type": "VEC2",
@@ -2287,7 +2238,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 68004,
+      "byteOffset": 68016,
       "componentType": 5123,
       "count": 54,
       "type": "SCALAR",
@@ -2295,7 +2246,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237216,
+      "byteOffset": 237312,
       "componentType": 5126,
       "count": 20,
       "max": [
@@ -2313,7 +2264,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237456,
+      "byteOffset": 237552,
       "componentType": 5126,
       "count": 20,
       "type": "VEC3",
@@ -2321,7 +2272,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158144,
+      "byteOffset": 158208,
       "componentType": 5126,
       "count": 20,
       "type": "VEC2",
@@ -2329,7 +2280,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158304,
+      "byteOffset": 158368,
       "componentType": 5126,
       "count": 20,
       "type": "VEC2",
@@ -2337,7 +2288,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 68112,
+      "byteOffset": 68124,
       "componentType": 5123,
       "count": 12,
       "type": "SCALAR",
@@ -2345,7 +2296,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237696,
+      "byteOffset": 237792,
       "componentType": 5126,
       "count": 6,
       "max": [
@@ -2363,7 +2314,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237768,
+      "byteOffset": 237864,
       "componentType": 5126,
       "count": 6,
       "type": "VEC3",
@@ -2371,7 +2322,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158464,
+      "byteOffset": 158528,
       "componentType": 5126,
       "count": 6,
       "type": "VEC2",
@@ -2379,7 +2330,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158512,
+      "byteOffset": 158576,
       "componentType": 5126,
       "count": 6,
       "type": "VEC2",
@@ -2387,7 +2338,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 68136,
+      "byteOffset": 68148,
       "componentType": 5123,
       "count": 15,
       "type": "SCALAR",
@@ -2395,7 +2346,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237840,
+      "byteOffset": 237936,
       "componentType": 5126,
       "count": 7,
       "max": [
@@ -2413,7 +2364,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 237924,
+      "byteOffset": 238020,
       "componentType": 5126,
       "count": 7,
       "type": "VEC3",
@@ -2421,7 +2372,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158560,
+      "byteOffset": 158624,
       "componentType": 5126,
       "count": 7,
       "type": "VEC2",
@@ -2429,59 +2380,9 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 158616,
+      "byteOffset": 158680,
       "componentType": 5126,
       "count": 7,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 68168,
-      "componentType": 5123,
-      "count": 6,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 238008,
-      "componentType": 5126,
-      "count": 4,
-      "max": [
-        0.460385323,
-        0.599999666,
-        5E-05
-      ],
-      "min": [
-        -0.460385323,
-        -0.599999666,
-        4.93185E-05
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 238056,
-      "componentType": 5126,
-      "count": 4,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 158672,
-      "componentType": 5126,
-      "count": 4,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 158704,
-      "componentType": 5126,
-      "count": 4,
       "type": "VEC2",
       "name": "accessorUV2s"
     },
@@ -3770,7 +3671,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4216,7 +4117,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -4617,89 +4518,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 23,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.0,
-                -0.200000048
-              ],
-              "scale": [
-                2.2,
-                2.2
-              ],
-              "texCoord": 0
-            }
-          }
-        },
-        "metallicFactor": 0.0
-      },
-      "normalTexture": {
-        "index": 0,
-        "scale": 0.3,
-        "extensions": {
-          "KHR_texture_transform": {
-            "offset": [
-              0.000599980354,
-              -0.200600147
-            ],
-            "scale": [
-              2.2,
-              2.2
-            ],
-            "texCoord": 0
-          }
-        }
-      },
-      "doubleSided": true,
-      "name": "ground",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 24,
-          "extensions": {
-            "KHR_texture_transform": {
-              "offset": [
-                0.0,
-                -0.200000048
+                -0.6,
+                -0.6
               ],
               "scale": [
                 2.2,
@@ -4713,13 +4537,13 @@
         "roughnessFactor": 0.25
       },
       "normalTexture": {
-        "index": 23,
+        "index": 22,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
             "offset": [
-              0.000599980354,
-              -0.200600147
+              -0.6,
+              -0.6
             ],
             "scale": [
               2.2,
@@ -5048,12 +4872,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 29
+          "index": 28
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 28,
+        "index": 27,
         "scale": 2.0
       },
       "doubleSided": true,
@@ -5099,12 +4923,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 30
+          "index": 29
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 28,
+        "index": 27,
         "scale": 2.0
       },
       "doubleSided": true,
@@ -5150,7 +4974,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 31,
+          "index": 30,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5168,7 +4992,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 28,
+        "index": 27,
         "scale": 2.0
       },
       "doubleSided": true,
@@ -5290,7 +5114,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 33,
+          "index": 32,
           "extensions": {
             "KHR_texture_transform": {
               "scale": [
@@ -5365,7 +5189,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 34,
+          "index": 33,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5425,7 +5249,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 34,
+          "index": 33,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5485,12 +5309,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 36,
+          "index": 35,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
                 -0.292,
-                0.13351202
+                0.134
               ],
               "scale": [
                 0.792,
@@ -5545,12 +5369,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 37,
+          "index": 36,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
                 0.104,
-                0.13351202
+                0.134
               ],
               "scale": [
                 0.792,
@@ -5698,11 +5522,6 @@
       "sampler": 0,
       "source": 8,
       "name": "grass_albedo.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 1,
-      "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
