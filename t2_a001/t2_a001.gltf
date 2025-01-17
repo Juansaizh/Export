@@ -839,6 +839,8 @@
       ],
       "name": "wallpaint_01",
       "extras": {
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"shower_01\""
       }
     },
@@ -857,6 +859,8 @@
       ],
       "name": "wallpaint_02",
       "extras": {
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"shower_01\""
       }
     },
@@ -875,6 +879,8 @@
       ],
       "name": "walltiles_decor_01",
       "extras": {
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"shower_01\""
       }
     },
@@ -893,6 +899,8 @@
       ],
       "name": "walltiles_simple_01",
       "extras": {
+        "generateUVs": true,
+        "scaleInLightmap": 1.0,
         "tags": "\"shower_01\""
       }
     }
@@ -3164,8 +3172,8 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.0,
-                -0.200000048
+                0.000599980354,
+                -0.200600147
               ],
               "scale": [
                 2.2,
@@ -3175,52 +3183,26 @@
             }
           }
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "metallicFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
-        "scale": 0.3
-      },
-      "doubleSided": true,
-      "name": "baseboard",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
         }
-      }
+      },
+      "name": "baseboard"
     },
     {
       "pbrMetallicRoughness": {
@@ -3229,8 +3211,8 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.0,
-                -0.200000048
+                0.000599980354,
+                -0.200600147
               ],
               "scale": [
                 2.2,
@@ -3240,52 +3222,26 @@
             }
           }
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "metallicFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
-        "scale": 0.3
-      },
-      "doubleSided": true,
-      "name": "baseboard",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
         }
-      }
+      },
+      "name": "baseboard"
     },
     {
       "pbrMetallicRoughness": {
@@ -3294,8 +3250,8 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.0,
-                -0.200000048
+                0.000599980354,
+                -0.200600147
               ],
               "scale": [
                 2.2,
@@ -3305,52 +3261,26 @@
             }
           }
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "metallicFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
-        "scale": 0.3
-      },
-      "doubleSided": true,
-      "name": "baseboard",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
         }
-      }
+      },
+      "name": "baseboard"
     },
     {
       "pbrMetallicRoughness": {
@@ -3359,8 +3289,8 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.0,
-                -0.200000048
+                0.000599980354,
+                -0.200600147
               ],
               "scale": [
                 2.2,
@@ -3370,52 +3300,26 @@
             }
           }
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "metallicFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
-        "scale": 0.3
-      },
-      "doubleSided": true,
-      "name": "baseboard",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
         }
-      }
+      },
+      "name": "baseboard"
     },
     {
       "pbrMetallicRoughness": {
@@ -3424,8 +3328,8 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.0,
-                -0.200000048
+                0.000599980354,
+                -0.200600147
               ],
               "scale": [
                 2.2,
@@ -3435,57 +3339,31 @@
             }
           }
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "metallicFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
-        "scale": 0.3
-      },
-      "doubleSided": true,
-      "name": "baseboard",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
         }
-      }
+      },
+      "name": "baseboard"
     },
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 7,
+          "index": 11,
           "extensions": {
             "KHR_texture_transform": {
               "scale": [
@@ -3499,7 +3377,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 6,
+        "index": 10,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -3558,7 +3436,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 7,
+          "index": 11,
           "extensions": {
             "KHR_texture_transform": {
               "scale": [
@@ -3572,7 +3450,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 6,
+        "index": 10,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -3631,7 +3509,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 7,
+          "index": 11,
           "extensions": {
             "KHR_texture_transform": {
               "scale": [
@@ -3645,7 +3523,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 6,
+        "index": 10,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -3704,7 +3582,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12
+          "index": 16
         },
         "metallicFactor": 0.8,
         "roughnessFactor": 0.3
@@ -3752,7 +3630,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -3770,7 +3648,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 13,
+        "index": 0,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -3828,7 +3706,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12
+          "index": 16
         },
         "metallicFactor": 0.8,
         "roughnessFactor": 0.3
@@ -3876,7 +3754,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -3894,7 +3772,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 13,
+        "index": 0,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -3952,7 +3830,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 14,
+          "index": 19,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4012,7 +3890,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 15,
+          "index": 20,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4073,7 +3951,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 22,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4091,7 +3969,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 0,
+        "index": 21,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -4150,7 +4028,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 22,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4168,7 +4046,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 0,
+        "index": 21,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -4227,7 +4105,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 18,
+          "index": 25,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4287,7 +4165,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 22,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4305,7 +4183,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 0,
+        "index": 21,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -4364,7 +4242,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 22,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4382,7 +4260,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 0,
+        "index": 21,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -4441,7 +4319,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 22,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4459,7 +4337,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 0,
+        "index": 21,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -4518,7 +4396,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 23,
+          "index": 33,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4537,7 +4415,7 @@
         "roughnessFactor": 0.25
       },
       "normalTexture": {
-        "index": 22,
+        "index": 32,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -4596,7 +4474,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4614,7 +4492,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 13,
+        "index": 0,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -4672,7 +4550,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12
+          "index": 16
         },
         "metallicFactor": 0.8,
         "roughnessFactor": 0.3
@@ -4720,7 +4598,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4738,7 +4616,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 13,
+        "index": 0,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -4796,7 +4674,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4814,7 +4692,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 13,
+        "index": 0,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -4872,12 +4750,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 28
+          "index": 38
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 27,
+        "index": 37,
         "scale": 2.0
       },
       "doubleSided": true,
@@ -4923,12 +4801,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 29
+          "index": 39
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 27,
+        "index": 37,
         "scale": 2.0
       },
       "doubleSided": true,
@@ -4974,7 +4852,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 30,
+          "index": 40,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -4992,7 +4870,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 27,
+        "index": 37,
         "scale": 2.0
       },
       "doubleSided": true,
@@ -5038,7 +4916,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5056,7 +4934,7 @@
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 13,
+        "index": 0,
         "scale": 2.0,
         "extensions": {
           "KHR_texture_transform": {
@@ -5114,7 +4992,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 32,
+          "index": 42,
           "extensions": {
             "KHR_texture_transform": {
               "scale": [
@@ -5141,7 +5019,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 12
+          "index": 16
         },
         "metallicFactor": 0.132,
         "roughnessFactor": 0.3
@@ -5189,7 +5067,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 33,
+          "index": 43,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5249,7 +5127,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 33,
+          "index": 43,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5309,7 +5187,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 35,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5326,13 +5204,29 @@
         },
         "metallicFactor": 0.0
       },
-      "doubleSided": true,
+      "normalTexture": {
+        "index": 0,
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
+        }
+      },
       "name": "walltiles_decor_01_shower_01_",
       "extras": {
         "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
+        "directIntensity": 1.5,
         "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
+        "environmentIntensity": 0.0,
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
@@ -5369,7 +5263,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 36,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5386,13 +5280,29 @@
         },
         "metallicFactor": 0.0
       },
-      "doubleSided": true,
+      "normalTexture": {
+        "index": 0,
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
+        }
+      },
       "name": "walltiles_simple_01_shower_01_",
       "extras": {
         "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
+        "directIntensity": 1.5,
         "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
+        "environmentIntensity": 0.0,
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
@@ -5431,91 +5341,126 @@
     {
       "sampler": 0,
       "source": 0,
-      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 1,
-      "name": "tiles_template.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 1,
-      "name": "tiles_template.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 1,
-      "name": "tiles_template.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 1,
-      "name": "tiles_template.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 1,
-      "name": "tiles_template.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 2,
-      "name": "artdeco_curtain_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 3,
-      "name": "artdeco_curtain_basecolor.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 2,
-      "name": "artdeco_curtain_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 3,
-      "name": "artdeco_curtain_basecolor.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 2,
-      "name": "artdeco_curtain_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 3,
-      "name": "artdeco_curtain_basecolor.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 4,
-      "name": "color_white.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 5,
       "name": "paint_indoor_normal.jpg"
     },
     {
       "sampler": 0,
-      "source": 6,
+      "source": 1,
+      "name": "color_white.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "color_white.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "color_white.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "color_white.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "color_white.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "artdeco_curtain_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 3,
+      "name": "artdeco_curtain_basecolor.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "artdeco_curtain_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 3,
+      "name": "artdeco_curtain_basecolor.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 2,
+      "name": "artdeco_curtain_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 3,
+      "name": "artdeco_curtain_basecolor.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 1,
+      "name": "color_white.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 4,
       "name": "fence_black_base_color.png"
     },
     {
       "sampler": 0,
-      "source": 7,
+      "source": 5,
       "name": "color_antracite.jpg"
     },
     {
       "sampler": 0,
-      "source": 1,
+      "source": 6,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
       "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
-      "source": 1,
+      "source": 6,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
       "name": "tiles_template.jpg"
     },
     {
@@ -5525,17 +5470,32 @@
     },
     {
       "sampler": 0,
-      "source": 1,
+      "source": 6,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
       "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
-      "source": 1,
+      "source": 6,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
       "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
-      "source": 1,
+      "source": 6,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
       "name": "tiles_template.jpg"
     },
     {
@@ -5550,17 +5510,17 @@
     },
     {
       "sampler": 0,
-      "source": 5,
+      "source": 0,
       "name": "paint_indoor_normal.jpg"
     },
     {
       "sampler": 0,
-      "source": 5,
+      "source": 0,
       "name": "paint_indoor_normal.jpg"
     },
     {
       "sampler": 0,
-      "source": 5,
+      "source": 0,
       "name": "paint_indoor_normal.jpg"
     },
     {
@@ -5585,7 +5545,7 @@
     },
     {
       "sampler": 0,
-      "source": 5,
+      "source": 0,
       "name": "paint_indoor_normal.jpg"
     },
     {
@@ -5605,21 +5565,21 @@
     },
     {
       "sampler": 0,
-      "source": 17,
-      "name": "walltiles_saloni.jpg"
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
     },
     {
       "sampler": 0,
-      "source": 17,
-      "name": "walltiles_saloni.jpg"
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
     }
   ],
   "images": [
     {
-      "uri": "tiles_irisceramica_calx_bianco_normal.jpg"
+      "uri": "paint_indoor_normal.jpg"
     },
     {
-      "uri": "tiles_template.jpg"
+      "uri": "color_white.jpg"
     },
     {
       "uri": "artdeco_curtain_normal.jpg"
@@ -5628,16 +5588,16 @@
       "uri": "artdeco_curtain_basecolor.jpg"
     },
     {
-      "uri": "color_white.jpg"
-    },
-    {
-      "uri": "paint_indoor_normal.jpg"
-    },
-    {
       "uri": "fence_black_base_color.png"
     },
     {
       "uri": "color_antracite.jpg"
+    },
+    {
+      "uri": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "uri": "tiles_template.jpg"
     },
     {
       "uri": "grass_albedo.jpg"
@@ -5665,9 +5625,6 @@
     },
     {
       "uri": "wallpaint_int_blue_base_color.jpg"
-    },
-    {
-      "uri": "walltiles_saloni.jpg"
     }
   ],
   "samplers": [
