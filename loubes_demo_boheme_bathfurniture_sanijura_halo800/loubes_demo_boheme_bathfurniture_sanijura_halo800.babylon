@@ -102,7 +102,7 @@
       "metadata": null
     },
     {
-      "materialId": "8422419b-9211-475d-9cf7-af696ae471c7",
+      "materialId": "c1beeddf-34b9-4853-9b3e-d4d9b5418ce4",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -3338,7 +3338,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_base",
-      "id": "b0ee47af-5cdb-4bab-843b-4bde1f8f16e5",
+      "id": "b3788f17-bd22-4ca8-9673-12d28f49d235",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         -0.00276566,
@@ -3356,7 +3356,7 @@
       }
     },
     {
-      "materialId": "d8cf647a-2a27-44ba-81e1-4f6ae100fd5f",
+      "materialId": "78d39a4a-bbc8-454c-862b-fa195e61d04f",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -3948,7 +3948,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_panel",
-      "id": "673243c8-0bd7-4ac1-ae95-6cc3f142f9d9",
+      "id": "a7d828ec-d504-4f0b-8deb-4f8973c9a597",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         -0.00276566,
@@ -3966,7 +3966,7 @@
       }
     },
     {
-      "materialId": "32b69f50-1080-40f5-9efe-8a7c10a88e0e",
+      "materialId": "159fe802-0c84-453f-bf34-867b30229c32",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -4218,7 +4218,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "shadows_ground_23",
-      "id": "83c5153a-7d73-44b5-a3f3-d1c18b64b0b8",
+      "id": "ffc52f14-a8eb-4da1-9bd1-f52f3b29389d",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         0.01966912,
@@ -4290,7 +4290,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "white_melamine",
-      "id": "c045dbf4-fafd-4e92-94cc-c360c5aff9b5",
+      "id": "52e0ea86-e6ab-4ecc-a90d-24db48bad5e4",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4387,7 +4387,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "mirror",
-      "id": "14fdb6f6-0247-4c0d-b7ba-db27db1112c7",
+      "id": "5770d62e-6bf8-4e22-a6be-2719b45856b0",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4484,7 +4484,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "spotlight",
-      "id": "e5f189cc-bd7b-4080-8fde-f768018b0d0b",
+      "id": "cee66c1b-e91e-4e86-815b-659f8b739161",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4609,7 +4609,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "Material #17",
-      "id": "3fe7f19b-08f7-4b6d-bfb6-a1f31e7c1ebf",
+      "id": "c88c8850-df0f-407b-b4c0-490aaddf8fe3",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4734,7 +4734,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "plastic_black",
-      "id": "131d319f-2810-4f5f-a60a-47e3444c031e",
+      "id": "970ac756-b41e-4733-8e98-239f3638bcd0",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4887,7 +4887,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "halo_woodpanel_chene_bnaturel",
-      "id": "d8cf647a-2a27-44ba-81e1-4f6ae100fd5f",
+      "id": "78d39a4a-bbc8-454c-862b-fa195e61d04f",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4984,11 +4984,11 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "shadows",
-      "id": "32b69f50-1080-40f5-9efe-8a7c10a88e0e",
+      "id": "159fe802-0c84-453f-bf34-867b30229c32",
       "backFaceCulling": true,
       "separateCullingPass": false,
       "wireframe": false,
-      "alpha": 1.0,
+      "alpha": 0.99,
       "alphaMode": 2,
       "maxSimultaneousLights": 4,
       "metadata": {
@@ -5033,13 +5033,13 @@
   "multiMaterials": [
     {
       "name": "MultiMat_45",
-      "id": "8422419b-9211-475d-9cf7-af696ae471c7",
+      "id": "c1beeddf-34b9-4853-9b3e-d4d9b5418ce4",
       "materials": [
-        "c045dbf4-fafd-4e92-94cc-c360c5aff9b5",
-        "14fdb6f6-0247-4c0d-b7ba-db27db1112c7",
-        "e5f189cc-bd7b-4080-8fde-f768018b0d0b",
-        "3fe7f19b-08f7-4b6d-bfb6-a1f31e7c1ebf",
-        "131d319f-2810-4f5f-a60a-47e3444c031e"
+        "52e0ea86-e6ab-4ecc-a90d-24db48bad5e4",
+        "5770d62e-6bf8-4e22-a6be-2719b45856b0",
+        "cee66c1b-e91e-4e86-815b-659f8b739161",
+        "c88c8850-df0f-407b-b4c0-490aaddf8fe3",
+        "970ac756-b41e-4733-8e98-239f3638bcd0"
       ]
     }
   ],
