@@ -102,7 +102,7 @@
       "metadata": null
     },
     {
-      "materialId": "740948a1-dc31-4b8c-9da7-7db07cff50ce",
+      "materialId": "372bb1cb-b67a-43a6-947c-577b26a07e37",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -2215,9 +2215,9 @@
         0.621272266,
         0.172525108,
         0.621272266,
-        0.247026742,
+        0.2470268,
         0.47029987,
-        0.247026742,
+        0.2470268,
         0.613955259,
         0.8091885,
         0.613955259,
@@ -3338,7 +3338,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_base",
-      "id": "8423983d-08d5-4306-bb01-ef0456c98e94",
+      "id": "43582bef-afd0-4190-9370-30891f2b006f",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         -0.00276566,
@@ -3356,7 +3356,7 @@
       }
     },
     {
-      "materialId": "7a3700b1-1e9c-481c-a6a6-729adb7e07df",
+      "materialId": "8344817f-2206-4d13-8355-5c9aa3a42ee7",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -3948,7 +3948,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_panel",
-      "id": "fdc9a042-dd4b-426b-a9a1-da66c6d5579e",
+      "id": "5f963cf6-84cb-466b-9928-67e005e86656",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         -0.00276566,
@@ -3966,7 +3966,7 @@
       }
     },
     {
-      "materialId": "a4ffde15-8b99-4f5c-98c7-d900107e0579",
+      "materialId": "09ce1078-9349-49c0-af51-9b27475f7ab2",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -4218,7 +4218,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "shadows_ground_23",
-      "id": "2dd601ea-7518-4d4f-aca6-93cfd5408a55",
+      "id": "88e1856f-02d8-43c5-af23-096f755d148e",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         0.01966911,
@@ -4290,7 +4290,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "white_melamine",
-      "id": "7ed40b7f-a961-4bb0-b6d0-4689c5623853",
+      "id": "9cdf6f8c-acaa-4ad2-885d-4fa6c9020cf8",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4336,8 +4336,8 @@
       }
     },
     {
-      "metallic": 0.0,
-      "roughness": 0.0,
+      "metallic": 0.35,
+      "roughness": 0.5,
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
@@ -4387,7 +4387,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "mirror",
-      "id": "141d7c05-dfd5-4cff-9dd2-b8d497b9e669",
+      "id": "aefb3644-4241-4c3e-a668-fce75ea1fdcc",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4484,7 +4484,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "spotlight",
-      "id": "4c63956b-0ce6-4fb8-a78b-abc602abd5e3",
+      "id": "32f0ff4a-31a8-4990-87fb-e1b0551e7b1c",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4535,39 +4535,11 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        1.0,
-        1.0,
-        1.0
+        0.8159324,
+        0.815932453,
+        0.815932333
       ],
-      "baseTexture": {
-        "name": "color_white.jpg",
-        "level": 1.0,
-        "hasAlpha": false,
-        "getAlphaFromRGB": false,
-        "coordinatesMode": 0,
-        "isCube": false,
-        "uOffset": 0.0,
-        "vOffset": 0.0,
-        "uScale": 1.0,
-        "vScale": -1.0,
-        "uRotationCenter": 0.5,
-        "vRotationCenter": 0.5,
-        "wRotationCenter": 0.5,
-        "invertY": false,
-        "uAng": 0.0,
-        "vAng": 0.0,
-        "wAng": 0.0,
-        "wrapU": 1,
-        "wrapV": 1,
-        "coordinatesIndex": 0,
-        "isRenderTarget": false,
-        "renderTargetSize": 0,
-        "mirrorPlane": null,
-        "renderList": null,
-        "animations": [],
-        "extensions": null,
-        "samplingMode": 3
-      },
+      "baseTexture": null,
       "disableLighting": false,
       "invertNormalMapX": false,
       "invertNormalMapY": false,
@@ -4609,7 +4581,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "Material #17",
-      "id": "397f4d99-bc28-47eb-bcc1-46258440c0e2",
+      "id": "a4b887f1-a1a5-4005-8ab4-e4bfaed75bb4",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4734,7 +4706,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "plastic_black",
-      "id": "5b4a01ca-8580-4239-a8ad-02c412dae69e",
+      "id": "7044eaee-cd17-4a42-8418-28bcb57e1625",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4887,7 +4859,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "halo_woodpanel_chene_bnaturel",
-      "id": "7a3700b1-1e9c-481c-a6a6-729adb7e07df",
+      "id": "8344817f-2206-4d13-8355-5c9aa3a42ee7",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4984,11 +4956,11 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "shadow",
-      "id": "a4ffde15-8b99-4f5c-98c7-d900107e0579",
+      "id": "09ce1078-9349-49c0-af51-9b27475f7ab2",
       "backFaceCulling": true,
       "separateCullingPass": false,
       "wireframe": false,
-      "alpha": 1.0,
+      "alpha": 0.99,
       "alphaMode": 2,
       "maxSimultaneousLights": 4,
       "metadata": {
@@ -5034,13 +5006,13 @@
   "multiMaterials": [
     {
       "name": "MultiMat_45",
-      "id": "740948a1-dc31-4b8c-9da7-7db07cff50ce",
+      "id": "372bb1cb-b67a-43a6-947c-577b26a07e37",
       "materials": [
-        "7ed40b7f-a961-4bb0-b6d0-4689c5623853",
-        "141d7c05-dfd5-4cff-9dd2-b8d497b9e669",
-        "4c63956b-0ce6-4fb8-a78b-abc602abd5e3",
-        "397f4d99-bc28-47eb-bcc1-46258440c0e2",
-        "5b4a01ca-8580-4239-a8ad-02c412dae69e"
+        "9cdf6f8c-acaa-4ad2-885d-4fa6c9020cf8",
+        "aefb3644-4241-4c3e-a668-fce75ea1fdcc",
+        "32f0ff4a-31a8-4990-87fb-e1b0551e7b1c",
+        "a4b887f1-a1a5-4005-8ab4-e4bfaed75bb4",
+        "7044eaee-cd17-4a42-8418-28bcb57e1625"
       ]
     }
   ],
