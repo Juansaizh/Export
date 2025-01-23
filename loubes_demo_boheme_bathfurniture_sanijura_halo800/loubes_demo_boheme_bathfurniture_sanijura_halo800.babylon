@@ -72,9 +72,9 @@
       ],
       "rotationQuaternion": [
         0.0,
-        1.0,
+        -1.5E-07,
         0.0,
-        -4E-08
+        1.0
       ],
       "actions": null,
       "checkCollisions": false,
@@ -92,7 +92,7 @@
       "position": [
         1.7E-07,
         0.0,
-        0.375500321
+        0.0
       ],
       "animations": null,
       "autoAnimate": false,
@@ -102,7 +102,7 @@
       "metadata": null
     },
     {
-      "materialId": "75dedd26-0313-4a9a-90e3-2b38571f962a",
+      "materialId": "535792ce-5c10-4234-8f9b-46f154779e31",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -3322,10 +3322,10 @@
         0.01
       ],
       "rotationQuaternion": [
-        -1E-07,
-        0.7071067,
-        0.7071068,
-        -1E-07
+        -0.7071068,
+        3E-08,
+        -2E-08,
+        0.7071068
       ],
       "actions": null,
       "checkCollisions": false,
@@ -3338,12 +3338,12 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_base",
-      "id": "21afcb9e-6bae-4286-ac1b-ccda3fb07bb7",
+      "id": "fa251776-0288-4b7e-b6fe-aa40bab90f0e",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
-        -0.00276566,
+        0.00276527,
         -3E-08,
-        0.00095034
+        -0.00095016
       ],
       "animations": null,
       "autoAnimate": false,
@@ -3356,7 +3356,7 @@
       }
     },
     {
-      "materialId": "a22c953f-0332-4f45-9e6d-af05e430b1db",
+      "materialId": "f72e860c-d84b-4a0a-bd56-373eabd4c360",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -3932,10 +3932,10 @@
         0.01
       ],
       "rotationQuaternion": [
-        -1E-07,
-        0.7071067,
-        0.7071068,
-        -1E-07
+        -0.7071068,
+        3E-08,
+        -2E-08,
+        0.7071068
       ],
       "actions": null,
       "checkCollisions": false,
@@ -3948,12 +3948,12 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_panel",
-      "id": "87923328-8068-4484-89c4-766180c87f40",
+      "id": "b81bf73e-bad0-475d-aa0d-003e83ad46c4",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
-        -0.00276566,
+        0.00276527,
         -3E-08,
-        0.00095034
+        -0.00095016
       ],
       "animations": null,
       "autoAnimate": false,
@@ -3966,7 +3966,7 @@
       }
     },
     {
-      "materialId": "186654b3-6292-48a5-b4b7-1756ce60706d",
+      "materialId": "96b68acd-d3d9-4b52-a07d-a2a2938db147",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -4203,9 +4203,9 @@
       ],
       "rotationQuaternion": [
         0.0,
+        1.0,
         0.0,
-        0.0,
-        1.0
+        -4E-08
       ],
       "actions": null,
       "checkCollisions": false,
@@ -4218,12 +4218,12 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "shadows_ground_23",
-      "id": "f641bc7b-405d-440c-9118-d88c3c18e7dd",
+      "id": "184a8265-89d1-424a-a545-db90c458eb60",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
-        0.01966911,
+        -0.01966954,
         0.0,
-        0.433716148
+        -0.433716059
       ],
       "animations": null,
       "autoAnimate": false,
@@ -4290,7 +4290,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "white_melamine",
-      "id": "150b7c53-e069-4498-acd4-a2165afd11cb",
+      "id": "282c91a1-7331-422e-999a-4af894b43a65",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4387,7 +4387,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "mirror",
-      "id": "868eb498-704d-4ad1-a7d2-e00eb31f7a4b",
+      "id": "04ab3d0d-d2c9-40fe-b542-b2a5ee242ada",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4484,7 +4484,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "spotlight",
-      "id": "62e616c3-ef47-4a87-87c0-93783e10ba15",
+      "id": "296f5220-0a4a-442d-bddb-15d594599f5d",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4581,7 +4581,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "worktop",
-      "id": "46395669-8519-40b9-bf54-b38d36902926",
+      "id": "c5b4fcab-16af-471a-a99b-efce73751d25",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4706,7 +4706,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "plastic_black",
-      "id": "e408dfcc-4e5e-4d49-9f38-0d694cef5f19",
+      "id": "e230d6c7-7214-403d-aeea-d1c84959efa4",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4859,7 +4859,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "halo_woodpanel_chene_bnaturel",
-      "id": "a22c953f-0332-4f45-9e6d-af05e430b1db",
+      "id": "f72e860c-d84b-4a0a-bd56-373eabd4c360",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4956,7 +4956,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "shadow",
-      "id": "186654b3-6292-48a5-b4b7-1756ce60706d",
+      "id": "96b68acd-d3d9-4b52-a07d-a2a2938db147",
       "backFaceCulling": true,
       "separateCullingPass": false,
       "wireframe": false,
@@ -5006,13 +5006,13 @@
   "multiMaterials": [
     {
       "name": "MultiMat_45",
-      "id": "75dedd26-0313-4a9a-90e3-2b38571f962a",
+      "id": "535792ce-5c10-4234-8f9b-46f154779e31",
       "materials": [
-        "150b7c53-e069-4498-acd4-a2165afd11cb",
-        "868eb498-704d-4ad1-a7d2-e00eb31f7a4b",
-        "62e616c3-ef47-4a87-87c0-93783e10ba15",
-        "46395669-8519-40b9-bf54-b38d36902926",
-        "e408dfcc-4e5e-4d49-9f38-0d694cef5f19"
+        "282c91a1-7331-422e-999a-4af894b43a65",
+        "04ab3d0d-d2c9-40fe-b542-b2a5ee242ada",
+        "296f5220-0a4a-442d-bddb-15d594599f5d",
+        "c5b4fcab-16af-471a-a99b-efce73751d25",
+        "e230d6c7-7214-403d-aeea-d1c84959efa4"
       ]
     }
   ],
