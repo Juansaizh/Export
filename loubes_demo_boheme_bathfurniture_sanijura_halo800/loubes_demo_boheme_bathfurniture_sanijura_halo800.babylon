@@ -102,7 +102,7 @@
       "metadata": null
     },
     {
-      "materialId": "92e88feb-f4a6-49bc-9656-84e19e528e88",
+      "materialId": "f5929678-6ab8-468b-9c4a-d9da9c9c48d1",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -3338,7 +3338,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_base",
-      "id": "943a6a78-60ee-40c4-876b-0c013a4e0efe",
+      "id": "98d4c59a-a957-43a0-8dca-8f7156a1c678",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         -0.00276566,
@@ -3356,7 +3356,7 @@
       }
     },
     {
-      "materialId": "3fb1f0e9-789d-4c12-aa5e-85c29a4d5896",
+      "materialId": "4acd8993-0715-459b-9a48-1be56bfe4cf0",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -3948,7 +3948,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "loubes_demo_boheme_bathfurniture_sanijura_halo800_panel",
-      "id": "872a3bc1-1905-4c55-ad26-8d17b361519c",
+      "id": "247ae12e-3cf1-47f0-93a9-69f747eeb4cd",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         -0.00276566,
@@ -3966,7 +3966,7 @@
       }
     },
     {
-      "materialId": "6eac7208-ba46-4504-aefd-0eb4ec47a397",
+      "materialId": "80b484b4-2b7a-4a67-908c-d8d4bca578c4",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -4218,7 +4218,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "shadows_ground_23",
-      "id": "63478993-d39f-437f-b3b5-5b60a51c8c82",
+      "id": "2d46bdd8-2e21-44d3-9d72-2518b4818dc2",
       "parentId": "fcc96896-3b22-4c49-900b-cff4841dd2f4",
       "position": [
         0.01966911,
@@ -4290,7 +4290,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "white_melamine",
-      "id": "00651f47-3278-4522-bfe2-a8c52a67198b",
+      "id": "a8b37270-e467-4a06-8fdc-a42a80cb1405",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4387,7 +4387,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "mirror",
-      "id": "8c2fbb53-f626-46e4-a32e-d47aee700a1e",
+      "id": "bee1ae95-f734-44c5-95b1-744fa69d0bcc",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4449,38 +4449,10 @@
       "normalTexture": null,
       "emissive": [
         1.0,
-        1.0,
-        1.0
+        0.99999994,
+        0.0
       ],
-      "emissiveTexture": {
-        "name": "color_white.jpg",
-        "level": 1.0,
-        "hasAlpha": false,
-        "getAlphaFromRGB": false,
-        "coordinatesMode": 0,
-        "isCube": false,
-        "uOffset": 0.0,
-        "vOffset": 0.0,
-        "uScale": 1.0,
-        "vScale": -1.0,
-        "uRotationCenter": 0.5,
-        "vRotationCenter": 0.5,
-        "wRotationCenter": 0.5,
-        "invertY": false,
-        "uAng": 0.0,
-        "vAng": 0.0,
-        "wAng": 0.0,
-        "wrapU": 1,
-        "wrapV": 1,
-        "coordinatesIndex": 0,
-        "isRenderTarget": false,
-        "renderTargetSize": 0,
-        "mirrorPlane": null,
-        "renderList": null,
-        "animations": [],
-        "extensions": null,
-        "samplingMode": 3
-      },
+      "emissiveTexture": null,
       "occlusionStrength": 1.0,
       "occlusionTexture": null,
       "transparencyMode": 0,
@@ -4512,7 +4484,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "spotlight",
-      "id": "b2c36b21-780f-4123-9ac6-e13d169d2b85",
+      "id": "5ae1dc66-7a87-468e-82d9-da5b3b85e3eb",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4609,7 +4581,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "worktop",
-      "id": "b6757083-9d3d-44c5-b2ba-76be584893ff",
+      "id": "df2f9d87-43c9-41d3-925a-14a6ead9a0f3",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4734,7 +4706,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "plastic_black",
-      "id": "8816bc6a-fea1-47e0-b0d0-a4f0e206738a",
+      "id": "feaf82aa-ecc7-4972-b0ed-f03631327a72",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4887,7 +4859,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "halo_woodpanel_chene_bnaturel",
-      "id": "3fb1f0e9-789d-4c12-aa5e-85c29a4d5896",
+      "id": "4acd8993-0715-459b-9a48-1be56bfe4cf0",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -4984,7 +4956,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "shadow",
-      "id": "6eac7208-ba46-4504-aefd-0eb4ec47a397",
+      "id": "80b484b4-2b7a-4a67-908c-d8d4bca578c4",
       "backFaceCulling": true,
       "separateCullingPass": false,
       "wireframe": false,
@@ -5034,13 +5006,13 @@
   "multiMaterials": [
     {
       "name": "MultiMat_45",
-      "id": "92e88feb-f4a6-49bc-9656-84e19e528e88",
+      "id": "f5929678-6ab8-468b-9c4a-d9da9c9c48d1",
       "materials": [
-        "00651f47-3278-4522-bfe2-a8c52a67198b",
-        "8c2fbb53-f626-46e4-a32e-d47aee700a1e",
-        "b2c36b21-780f-4123-9ac6-e13d169d2b85",
-        "b6757083-9d3d-44c5-b2ba-76be584893ff",
-        "8816bc6a-fea1-47e0-b0d0-a4f0e206738a"
+        "a8b37270-e467-4a06-8fdc-a42a80cb1405",
+        "bee1ae95-f734-44c5-95b1-744fa69d0bcc",
+        "5ae1dc66-7a87-468e-82d9-da5b3b85e3eb",
+        "df2f9d87-43c9-41d3-925a-14a6ead9a0f3",
+        "feaf82aa-ecc7-4972-b0ed-f03631327a72"
       ]
     }
   ],
