@@ -102,7 +102,7 @@
       "metadata": null
     },
     {
-      "materialId": "2019821c-e8fd-4639-82c8-05c4af2abc56",
+      "materialId": "0b744742-c869-4905-8018-c3a5c55746e0",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -268,7 +268,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_01",
-      "id": "0617938f-c160-4a4d-8a95-7db91a0dd1fd",
+      "id": "88dca776-122e-4a1a-8727-110f6d399b87",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00066115,
@@ -299,7 +299,7 @@
       }
     },
     {
-      "materialId": "3a52cf8b-db33-41be-86ec-c3277125b753",
+      "materialId": "d539566e-07fe-4afc-a4ea-df2752b79573",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -5423,7 +5423,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_decoration",
-      "id": "a0c7e162-c1b0-49eb-a28b-9abc48cfbdac",
+      "id": "3060c676-4399-497a-93df-9b6c54fbe65c",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         -1E-08,
@@ -5454,7 +5454,7 @@
       }
     },
     {
-      "materialId": "66d31549-6a88-494c-a593-8ca36e0b2190",
+      "materialId": "707eee9b-89ae-466f-b14d-e0e3e2df42a5",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -6902,7 +6902,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_tablebase",
-      "id": "837d2efd-651f-4d90-a1b3-cfd1b2023957",
+      "id": "f36e9015-52fd-4577-bf73-d331714c485c",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         8.708E-05,
@@ -6933,7 +6933,7 @@
       }
     },
     {
-      "materialId": "ecf582ac-59d5-43f0-97ce-a057da565f83",
+      "materialId": "f88391d7-a773-41a9-880d-51dc1b253e6b",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -12651,7 +12651,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_tabletop",
-      "id": "d7acc7ac-3590-40a7-8426-b99a02ec1846",
+      "id": "10d9f9ff-e4a1-46a0-9665-7ab3999087d8",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         -2E-08,
@@ -12682,7 +12682,7 @@
       }
     },
     {
-      "materialId": "2648b372-fdb1-4fb0-8dcd-96c367769b6f",
+      "materialId": "1fe87eee-92d5-443f-a226-4494952d103c",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -12848,7 +12848,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_08",
-      "id": "b81a5ea0-3acb-4115-9e33-bf12e16a7c0f",
+      "id": "2a7a3b68-8d3b-491b-926e-829b7e2b04a3",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00015852,
@@ -12879,7 +12879,7 @@
       }
     },
     {
-      "materialId": "bc7a68ff-ff23-4a41-b8c3-d3957bb4f5c2",
+      "materialId": "db63d618-0219-43b6-a5ff-d19743cd44f4",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -32666,7 +32666,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_chair_02",
-      "id": "1dda17e5-d1f7-402d-92dc-d3a026cc3be8",
+      "id": "f946a243-b2af-4e23-9314-bba615b463dd",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         -0.421929777,
@@ -32697,7 +32697,7 @@
       }
     },
     {
-      "materialId": "0cd3a0cd-1665-4a76-b453-21f370800e9d",
+      "materialId": "2165d12a-a447-4c42-894f-c7b0348f5bc9",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -52484,7 +52484,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_chair_03",
-      "id": "2a41bbe0-da39-43de-946f-887d79c5da65",
+      "id": "e3a84862-b19a-4225-b3d7-0955897915a9",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         -6E-08,
@@ -52515,7 +52515,7 @@
       }
     },
     {
-      "materialId": "e81580ae-129b-4946-87b3-4114c8551ce2",
+      "materialId": "432bebc6-134d-434b-a67f-432c5c9f3fae",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -72302,7 +72302,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_chair_04",
-      "id": "54099cd9-a5c0-4546-adc8-825951ebbf05",
+      "id": "c699265a-edc9-493e-9587-a8ffd81e1084",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.421929777,
@@ -72333,7 +72333,7 @@
       }
     },
     {
-      "materialId": "e1b8fa14-7b08-4d02-8efb-dcba96a91e9e",
+      "materialId": "56be2428-ade2-41a2-9610-16b544a84277",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -72499,7 +72499,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_07",
-      "id": "9959db3e-e782-4000-a6f0-dd18b4c4468d",
+      "id": "f0e71cf8-eeec-4999-9b3e-605070dd05c7",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00060149,
@@ -72530,7 +72530,7 @@
       }
     },
     {
-      "materialId": "df4cf8dc-21a5-4c64-86d8-5bcf97ec128a",
+      "materialId": "6ac696ef-dd51-4250-9db9-f6ccff48599f",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -72696,7 +72696,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_02",
-      "id": "d641a505-5dff-4a95-b3e5-2b6a20e735c7",
+      "id": "44cf95c8-c65c-401f-be94-f7dde9d12400",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00062567,
@@ -72727,7 +72727,7 @@
       }
     },
     {
-      "materialId": "f958227e-5f24-44d4-880e-470daece4044",
+      "materialId": "1690e0d7-0828-4755-abc6-a5eaf240d496",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -72893,7 +72893,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_04",
-      "id": "169704a8-ac2a-41d3-887c-26c4c8995cd4",
+      "id": "50425894-e360-4e3b-a4b8-3a0c9bb702bc",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00060149,
@@ -72924,7 +72924,7 @@
       }
     },
     {
-      "materialId": "6e045ed2-23a9-469a-a032-61caf2f86885",
+      "materialId": "a9d745c6-82de-42d5-ab57-58307e2d6921",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -73090,7 +73090,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_05",
-      "id": "38118f89-2155-488a-9d0c-0a320a94866f",
+      "id": "cd1ea8b5-984a-4e13-9ac0-ba0c49b60357",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00060149,
@@ -73121,7 +73121,7 @@
       }
     },
     {
-      "materialId": "44900752-12f7-4dc7-acb4-0e6d66f35584",
+      "materialId": "c54d7ade-7b5e-4aed-8e09-08749b7a4944",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -73287,7 +73287,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_06",
-      "id": "459aace5-07e9-424a-9d98-fb04e8333474",
+      "id": "5270d0ec-2c05-44a8-bf3a-b997e46ddbd1",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00060149,
@@ -73318,7 +73318,7 @@
       }
     },
     {
-      "materialId": "8b68b7e0-335f-4d76-95b9-6181bab03cc5",
+      "materialId": "7c0c76e9-af13-46af-aafe-1dfecbf86c64",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -73484,7 +73484,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_flower_03",
-      "id": "dd2f83f7-4cb7-4700-9a79-080320d3a290",
+      "id": "3d0a5599-4736-4441-95f7-423e541a21f4",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.00108497,
@@ -73515,7 +73515,7 @@
       }
     },
     {
-      "materialId": "3d3706d6-69c4-4443-bb0d-72430b057c30",
+      "materialId": "3e65700e-2eae-4235-b188-002ac0a9aadd",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -93302,7 +93302,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "scandi_table_chair_01",
-      "id": "8cf17bda-4afb-4259-bd2f-1b8d37bb5122",
+      "id": "1dc95183-bdf0-4efc-97b4-ab0c173a2e87",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.0,
@@ -93333,7 +93333,7 @@
       }
     },
     {
-      "materialId": "99c7799d-fbce-4786-8e0c-42a871496c08",
+      "materialId": "50a9a6b8-2201-4409-a01f-176a6de6030f",
       "geometryId": null,
       "isEnabled": true,
       "isVisible": true,
@@ -93447,7 +93447,7 @@
       "physicsFriction": 0.0,
       "physicsRestitution": 0.0,
       "name": "shadows_ground_01",
-      "id": "fda8568c-96fe-4050-8cef-e5a914b77035",
+      "id": "70a2286d-fb72-4b5d-9c98-625f2195b9c0",
       "parentId": "fe8339df-348c-4408-b77c-d49537080f92",
       "position": [
         0.0,
@@ -93473,9 +93473,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -93547,7 +93547,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "2019821c-e8fd-4639-82c8-05c4af2abc56",
+      "id": "0b744742-c869-4905-8018-c3a5c55746e0",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -93600,9 +93600,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.5889618,
-        0.448564351,
-        0.343257
+        0.8751377,
+        0.673049152,
+        0.523443162
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -93646,7 +93646,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "ceramic_flowerpot",
-      "id": "3a52cf8b-db33-41be-86ec-c3277125b753",
+      "id": "d539566e-07fe-4afc-a4ea-df2752b79573",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -93771,7 +93771,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "scandi_light_wood_1",
-      "id": "66d31549-6a88-494c-a593-8ca36e0b2190",
+      "id": "707eee9b-89ae-466f-b14d-e0e3e2df42a5",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -93868,7 +93868,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "melamine_white1",
-      "id": "ecf582ac-59d5-43f0-97ce-a057da565f83",
+      "id": "f88391d7-a773-41a9-880d-51dc1b253e6b",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -93919,9 +93919,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -93993,7 +93993,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "2648b372-fdb1-4fb0-8dcd-96c367769b6f",
+      "id": "1fe87eee-92d5-443f-a226-4494952d103c",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94092,7 +94092,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "melamine_white1",
-      "id": "f60e7e4f-cc51-4f71-8e19-93dc87e9b5f7",
+      "id": "c232c255-6034-4a5f-9d91-86d1e459a790",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94189,7 +94189,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "steel_painted_glossy_black",
-      "id": "960114b7-e978-49fe-928f-ccf44c0cda97",
+      "id": "4034ff38-003f-460e-8af0-72199ebb1fad",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94314,7 +94314,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "scandi_light_wood_1",
-      "id": "c9a3c126-34d3-4b5e-ad93-ff079be09ef0",
+      "id": "9a4e7692-06bc-4a67-abcc-bff0c7ffdb1a",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94365,9 +94365,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.5889618,
-        0.448564351,
-        0.343257
+        0.8751377,
+        0.673049152,
+        0.523443162
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -94411,7 +94411,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "ceramic_flowerpot",
-      "id": "11ed100c-2d39-454e-ae67-595e5e4232c5",
+      "id": "76d5b8cc-b09a-4027-8503-cd8dea4d6fab",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94508,7 +94508,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "melamine_white1",
-      "id": "7ce269d3-1025-48f4-a43d-eb37a0651d28",
+      "id": "5e62fd2d-4b81-4ea2-adb8-b701e9eca448",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94605,7 +94605,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "steel_painted_glossy_black",
-      "id": "62621836-7c45-49d3-982e-847d0c0bb40f",
+      "id": "3569d7a9-9f14-4e0d-89d3-6fd302a445e3",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94730,7 +94730,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "scandi_light_wood_1",
-      "id": "c29771de-0515-43da-93bb-2ad84888d1cc",
+      "id": "77c4be84-4010-4049-82dd-414966013f9e",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94781,9 +94781,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.5889618,
-        0.448564351,
-        0.343257
+        0.8751377,
+        0.673049152,
+        0.523443162
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -94827,7 +94827,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "ceramic_flowerpot",
-      "id": "febdb3c2-c4eb-4aa2-ab3d-dec3850bb3b3",
+      "id": "3280e0d8-8a02-4658-9e39-bf2f1e73cb60",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -94924,7 +94924,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "melamine_white1",
-      "id": "3ad4e16c-5330-46b7-8653-4ac1de1bf2dc",
+      "id": "81b19d4b-c5a1-4edd-9bce-51dfd2d2161e",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95021,7 +95021,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "steel_painted_glossy_black",
-      "id": "fbc699ee-d579-469d-a4ed-bdd207bd1168",
+      "id": "6c98ee82-a2bf-4f33-9896-8a93bf3a888c",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95146,7 +95146,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "scandi_light_wood_1",
-      "id": "1aabe968-e773-4880-b033-40838fa385d4",
+      "id": "7ff9fdb2-9905-4b99-ab6e-7d541730bf5c",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95197,9 +95197,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.5889618,
-        0.448564351,
-        0.343257
+        0.8751377,
+        0.673049152,
+        0.523443162
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -95243,7 +95243,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "ceramic_flowerpot",
-      "id": "831e8df2-55c6-48ea-8578-91ba99adf961",
+      "id": "9bcfa472-61b3-4a92-b288-d29541c2077d",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95294,9 +95294,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -95368,7 +95368,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "e1b8fa14-7b08-4d02-8efb-dcba96a91e9e",
+      "id": "56be2428-ade2-41a2-9610-16b544a84277",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95421,9 +95421,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -95495,7 +95495,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "df4cf8dc-21a5-4c64-86d8-5bcf97ec128a",
+      "id": "6ac696ef-dd51-4250-9db9-f6ccff48599f",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95548,9 +95548,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -95622,7 +95622,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "f958227e-5f24-44d4-880e-470daece4044",
+      "id": "1690e0d7-0828-4755-abc6-a5eaf240d496",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95675,9 +95675,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -95749,7 +95749,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "6e045ed2-23a9-469a-a032-61caf2f86885",
+      "id": "a9d745c6-82de-42d5-ab57-58307e2d6921",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95802,9 +95802,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -95876,7 +95876,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "44900752-12f7-4dc7-acb4-0e6d66f35584",
+      "id": "c54d7ade-7b5e-4aed-8e09-08749b7a4944",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -95929,9 +95929,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.6,
-        0.6,
-        0.6
+        0.7019608,
+        0.7019608,
+        0.7019608
       ],
       "baseTexture": {
         "name": "scandi_table_flower.png",
@@ -96003,7 +96003,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "decorative_flowers",
-      "id": "8b68b7e0-335f-4d76-95b9-6181bab03cc5",
+      "id": "7c0c76e9-af13-46af-aafe-1dfecbf86c64",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -96102,7 +96102,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "melamine_white1",
-      "id": "5c19d581-9389-40e1-a4af-d0cd630bc01d",
+      "id": "478a2cc5-6373-4441-8fe3-0e5e8f3ba37e",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -96199,7 +96199,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "steel_painted_glossy_black",
-      "id": "5c191108-9a0e-40f0-959d-ece33023b7c7",
+      "id": "07a92227-2b63-4623-bbae-0f0b51ff3e08",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -96324,7 +96324,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "scandi_light_wood_1",
-      "id": "a9905b83-c5b0-41bb-8097-d3561a630c82",
+      "id": "90e625e5-5c7d-47eb-8da0-ca55941c94fe",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -96375,9 +96375,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.5889618,
-        0.448564351,
-        0.343257
+        0.8751377,
+        0.673049152,
+        0.523443162
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -96421,7 +96421,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "ceramic_flowerpot",
-      "id": "ddebc607-8f34-4350-ab6a-02b97b8a41f2",
+      "id": "d1b72fd7-c176-4ffa-93ba-caccb43a7fac",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -96518,7 +96518,7 @@
         "useRoughnessFromMainTexture": false
       },
       "name": "shadow",
-      "id": "99c7799d-fbce-4786-8e0c-42a871496c08",
+      "id": "50a9a6b8-2201-4409-a01f-176a6de6030f",
       "backFaceCulling": false,
       "separateCullingPass": false,
       "wireframe": false,
@@ -96568,42 +96568,42 @@
   "multiMaterials": [
     {
       "name": "MultiMat_43",
-      "id": "bc7a68ff-ff23-4a41-b8c3-d3957bb4f5c2",
+      "id": "db63d618-0219-43b6-a5ff-d19743cd44f4",
       "materials": [
-        "f60e7e4f-cc51-4f71-8e19-93dc87e9b5f7",
-        "960114b7-e978-49fe-928f-ccf44c0cda97",
-        "c9a3c126-34d3-4b5e-ad93-ff079be09ef0",
-        "11ed100c-2d39-454e-ae67-595e5e4232c5"
+        "c232c255-6034-4a5f-9d91-86d1e459a790",
+        "4034ff38-003f-460e-8af0-72199ebb1fad",
+        "9a4e7692-06bc-4a67-abcc-bff0c7ffdb1a",
+        "76d5b8cc-b09a-4027-8503-cd8dea4d6fab"
       ]
     },
     {
       "name": "MultiMat_43",
-      "id": "0cd3a0cd-1665-4a76-b453-21f370800e9d",
+      "id": "2165d12a-a447-4c42-894f-c7b0348f5bc9",
       "materials": [
-        "7ce269d3-1025-48f4-a43d-eb37a0651d28",
-        "62621836-7c45-49d3-982e-847d0c0bb40f",
-        "c29771de-0515-43da-93bb-2ad84888d1cc",
-        "febdb3c2-c4eb-4aa2-ab3d-dec3850bb3b3"
+        "5e62fd2d-4b81-4ea2-adb8-b701e9eca448",
+        "3569d7a9-9f14-4e0d-89d3-6fd302a445e3",
+        "77c4be84-4010-4049-82dd-414966013f9e",
+        "3280e0d8-8a02-4658-9e39-bf2f1e73cb60"
       ]
     },
     {
       "name": "MultiMat_43",
-      "id": "e81580ae-129b-4946-87b3-4114c8551ce2",
+      "id": "432bebc6-134d-434b-a67f-432c5c9f3fae",
       "materials": [
-        "3ad4e16c-5330-46b7-8653-4ac1de1bf2dc",
-        "fbc699ee-d579-469d-a4ed-bdd207bd1168",
-        "1aabe968-e773-4880-b033-40838fa385d4",
-        "831e8df2-55c6-48ea-8578-91ba99adf961"
+        "81b19d4b-c5a1-4edd-9bce-51dfd2d2161e",
+        "6c98ee82-a2bf-4f33-9896-8a93bf3a888c",
+        "7ff9fdb2-9905-4b99-ab6e-7d541730bf5c",
+        "9bcfa472-61b3-4a92-b288-d29541c2077d"
       ]
     },
     {
       "name": "MultiMat_43",
-      "id": "3d3706d6-69c4-4443-bb0d-72430b057c30",
+      "id": "3e65700e-2eae-4235-b188-002ac0a9aadd",
       "materials": [
-        "5c19d581-9389-40e1-a4af-d0cd630bc01d",
-        "5c191108-9a0e-40f0-959d-ece33023b7c7",
-        "a9905b83-c5b0-41bb-8097-d3561a630c82",
-        "ddebc607-8f34-4350-ab6a-02b97b8a41f2"
+        "478a2cc5-6373-4441-8fe3-0e5e8f3ba37e",
+        "07a92227-2b63-4623-bbae-0f0b51ff3e08",
+        "90e625e5-5c7d-47eb-8da0-ca55941c94fe",
+        "d1b72fd7-c176-4ffa-93ba-caccb43a7fac"
       ]
     }
   ],
