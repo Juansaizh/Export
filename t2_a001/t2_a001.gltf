@@ -3164,18 +3164,19 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.000599980354,
-                -0.200600147
+                0.104,
+                0.13351202
               ],
               "scale": [
-                2.2,
-                2.2
+                0.792,
+                0.488
               ],
               "texCoord": 0
             }
           }
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
@@ -3240,18 +3241,19 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.000599980354,
-                -0.200600147
+                0.104,
+                0.13351202
               ],
               "scale": [
-                2.2,
-                2.2
+                0.792,
+                0.488
               ],
               "texCoord": 0
             }
           }
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
@@ -3316,18 +3318,19 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.000599980354,
-                -0.200600147
+                0.104,
+                0.13351202
               ],
               "scale": [
-                2.2,
-                2.2
+                0.792,
+                0.488
               ],
               "texCoord": 0
             }
           }
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
@@ -3392,18 +3395,19 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.000599980354,
-                -0.200600147
+                0.104,
+                0.13351202
               ],
               "scale": [
-                2.2,
-                2.2
+                0.792,
+                0.488
               ],
               "texCoord": 0
             }
           }
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
@@ -3468,18 +3472,19 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.000599980354,
-                -0.200600147
+                0.104,
+                0.13351202
               ],
               "scale": [
-                2.2,
-                2.2
+                0.792,
+                0.488
               ],
               "texCoord": 0
             }
           }
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
       },
       "normalTexture": {
         "index": 0,
@@ -4851,7 +4856,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 16,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5244,7 +5249,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43,
+          "index": 1,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5304,7 +5309,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43,
+          "index": 1,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
@@ -5364,12 +5369,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 46,
+          "index": 45,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.5,
-                0.256000042
+                -0.292,
+                0.353600025
               ],
               "scale": [
                 0.792,
@@ -5381,29 +5386,13 @@
         },
         "metallicFactor": 0.0
       },
-      "normalTexture": {
-        "index": 0,
-        "scale": 2.0,
-        "extensions": {
-          "KHR_texture_transform": {
-            "offset": [
-              -0.700000048,
-              -0.700000048
-            ],
-            "scale": [
-              2.4,
-              2.4
-            ],
-            "texCoord": 0
-          }
-        }
-      },
+      "doubleSided": true,
       "name": "walltiles_decor_01_shower_01_",
       "extras": {
         "babylonSeparateCullingPass": false,
-        "directIntensity": 1.5,
+        "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
-        "environmentIntensity": 0.0,
+        "environmentIntensity": 1.0,
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
@@ -5440,12 +5429,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 16,
+          "index": 46,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
                 0.104,
-                0.134
+                0.353600025
               ],
               "scale": [
                 0.792,
@@ -5457,29 +5446,13 @@
         },
         "metallicFactor": 0.0
       },
-      "normalTexture": {
-        "index": 0,
-        "scale": 2.0,
-        "extensions": {
-          "KHR_texture_transform": {
-            "offset": [
-              -0.700000048,
-              -0.700000048
-            ],
-            "scale": [
-              2.4,
-              2.4
-            ],
-            "texCoord": 0
-          }
-        }
-      },
+      "doubleSided": true,
       "name": "walltiles_simple_01_shower_01_",
       "extras": {
         "babylonSeparateCullingPass": false,
-        "directIntensity": 1.5,
+        "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
-        "environmentIntensity": 0.0,
+        "environmentIntensity": 1.0,
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
@@ -5523,7 +5496,7 @@
     {
       "sampler": 0,
       "source": 1,
-      "name": "color_white.jpg"
+      "name": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "sampler": 0,
@@ -5533,7 +5506,7 @@
     {
       "sampler": 0,
       "source": 1,
-      "name": "color_white.jpg"
+      "name": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "sampler": 0,
@@ -5543,7 +5516,7 @@
     {
       "sampler": 0,
       "source": 1,
-      "name": "color_white.jpg"
+      "name": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "sampler": 0,
@@ -5553,7 +5526,7 @@
     {
       "sampler": 0,
       "source": 1,
-      "name": "color_white.jpg"
+      "name": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "sampler": 0,
@@ -5563,7 +5536,7 @@
     {
       "sampler": 0,
       "source": 1,
-      "name": "color_white.jpg"
+      "name": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "sampler": 0,
@@ -5594,95 +5567,95 @@
       "sampler": 0,
       "source": 3,
       "name": "artdeco_curtain_basecolor.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 1,
-      "name": "color_white.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 0,
-      "name": "paint_indoor_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 0,
-      "name": "paint_indoor_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 4,
-      "name": "fence_black_base_color.png"
+      "name": "color_white.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "paint_indoor_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 5,
+      "name": "fence_black_base_color.png"
+    },
+    {
+      "sampler": 0,
+      "source": 6,
       "name": "color_antracite.jpg"
     },
     {
       "sampler": 0,
-      "source": 6,
-      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
-    },
-    {
-      "sampler": 0,
       "source": 7,
-      "name": "tiles_template.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 6,
       "name": "tiles_irisceramica_calx_bianco_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 7,
-      "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
       "source": 8,
-      "name": "grass_albedo.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 6,
-      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 7,
       "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
-      "source": 6,
+      "source": 7,
       "name": "tiles_irisceramica_calx_bianco_normal.jpg"
     },
     {
       "sampler": 0,
-      "source": 7,
-      "name": "tiles_template.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 6,
-      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 7,
+      "source": 8,
       "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
       "source": 9,
-      "name": "terrace_normal.jpg"
+      "name": "grass_albedo.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 8,
+      "name": "tiles_template.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 8,
+      "name": "tiles_template.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 7,
+      "name": "tiles_irisceramica_calx_bianco_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 8,
+      "name": "tiles_template.jpg"
     },
     {
       "sampler": 0,
       "source": 10,
+      "name": "terrace_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 11,
       "name": "terrace_albedo.jpg"
     },
     {
@@ -5702,22 +5675,22 @@
     },
     {
       "sampler": 0,
-      "source": 11,
+      "source": 12,
       "name": "paint_outdoor_normal.jpg"
     },
     {
       "sampler": 0,
-      "source": 12,
+      "source": 13,
       "name": "color_grey.jpg"
     },
     {
       "sampler": 0,
-      "source": 13,
+      "source": 14,
       "name": "color_ocher.jpg"
     },
     {
       "sampler": 0,
-      "source": 14,
+      "source": 15,
       "name": "beige_oscuro.jpg"
     },
     {
@@ -5727,23 +5700,18 @@
     },
     {
       "sampler": 0,
-      "source": 15,
+      "source": 16,
       "name": "stripes_albedo.jpg"
     },
     {
       "sampler": 0,
-      "source": 16,
+      "source": 1,
       "name": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "sampler": 0,
-      "source": 16,
+      "source": 1,
       "name": "wallpaint_int_blue_base_color.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 0,
-      "name": "paint_indoor_normal.jpg"
     },
     {
       "sampler": 0,
@@ -5752,8 +5720,8 @@
     },
     {
       "sampler": 0,
-      "source": 0,
-      "name": "paint_indoor_normal.jpg"
+      "source": 17,
+      "name": "walltiles_saloni.jpg"
     }
   ],
   "images": [
@@ -5761,13 +5729,16 @@
       "uri": "paint_indoor_normal.jpg"
     },
     {
-      "uri": "color_white.jpg"
+      "uri": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "uri": "artdeco_curtain_normal.jpg"
     },
     {
       "uri": "artdeco_curtain_basecolor.jpg"
+    },
+    {
+      "uri": "color_white.jpg"
     },
     {
       "uri": "fence_black_base_color.png"
@@ -5804,9 +5775,6 @@
     },
     {
       "uri": "stripes_albedo.jpg"
-    },
-    {
-      "uri": "wallpaint_int_blue_base_color.jpg"
     },
     {
       "uri": "walltiles_saloni.jpg"
