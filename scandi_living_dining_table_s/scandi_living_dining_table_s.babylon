@@ -93822,9 +93822,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.566809833,
-        0.566809833,
-        0.5668098
+        0.619009833,
+        0.619009833,
+        0.6190098
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -94046,9 +94046,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.566809833,
-        0.566809833,
-        0.5668098
+        0.619009833,
+        0.619009833,
+        0.6190098
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -94462,9 +94462,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.566809833,
-        0.566809833,
-        0.5668098
+        0.619009833,
+        0.619009833,
+        0.6190098
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -94878,9 +94878,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.566809833,
-        0.566809833,
-        0.5668098
+        0.619009833,
+        0.619009833,
+        0.6190098
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -96056,9 +96056,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.566809833,
-        0.566809833,
-        0.5668098
+        0.619009833,
+        0.619009833,
+        0.6190098
       ],
       "baseTexture": null,
       "disableLighting": false,
