@@ -1327,9 +1327,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.7000084,
-        0.7000084,
-        0.700008333
+        0.5860084,
+        0.5860084,
+        0.586008333
       ],
       "baseTexture": null,
       "disableLighting": false,
@@ -1519,9 +1519,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        1.0,
-        1.0,
-        1.0
+        0.592,
+        0.592,
+        0.592
       ],
       "baseTexture": {
         "name": "color_grigio_ferro.jpg",
