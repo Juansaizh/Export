@@ -4535,9 +4535,9 @@
       "metallicRoughnessTexture": null,
       "customType": "BABYLON.PBRMetallicRoughnessMaterial",
       "baseColor": [
-        0.7000084,
-        0.7000084,
-        0.700008333
+        0.4940084,
+        0.4940084,
+        0.494008333
       ],
       "baseTexture": null,
       "disableLighting": false,
